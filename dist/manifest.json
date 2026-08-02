@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "protocolVersion": 1,
+  "stateVersion": 9,
+  "entry": "dist/farm.html",
+  "sourceDigest": "90560c84bb835957458532a204c51545f96fd401d46f4d0c3ede5deec439003f",
+  "files": {
+    "dist/farm.html": {
+      "sha256": "811e6b180eda622b8dbefb9bfc8e042d337c2abcae8f99addfcc4fd2bcd130e1",
+      "bytes": 5059938
+    }
+  }
+}

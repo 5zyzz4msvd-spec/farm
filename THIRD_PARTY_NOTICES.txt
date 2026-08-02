@@ -1,0 +1,106 @@
+Parallel Farm compiled frontend — third-party notices
+
+This repository contains generated distribution artifacts only.
+Project source code and source maps are intentionally not included.
+
+# 第三方素材与许可
+
+## Kenney · Tiny Farm
+
+- 来源：https://kenney.nl/assets/tiny-farm
+- 许可：CC0 1.0。
+- 许可副本：`kenney-tiny-farm/License.txt`。
+- 本项目实际内嵌：`kenney-tiny-farm/tilemap_packed.png`，用于作物、岩石、枯木、边界树与双农舍。
+
+## Snoblin · Top-Down Prototype Character
+
+- 来源：https://store.godotengine.org/asset/snoblin/top-down-prototype-character/
+- 许可：CC0。
+- 许可副本：`snoblin-prototype-character/License.txt`。
+- 本项目实际内嵌：蓝色四方向静止/行走角色表；前端不再叠加帽子。
+
+## Kenney · Factory Kit
+
+- 来源：https://kenney.nl/assets/factory-kit
+- 许可：CC0 1.0。
+- 许可副本：`kenney-factory-kit/License.txt`。
+- 本项目实际内嵌：从官方预览中选取的 `machine-window` 与 `hopper-round` 透明图，分别作为织布机、酿造桶的首版地图表现。
+
+## Kenney · Blocky Characters（参考）
+
+- 来源：https://www.kenney.nl/assets/blocky-characters
+- 许可：CC0 1.0。
+- 许可副本：`kenney-blocky-characters/License.txt`。
+- 本项目只保留 `character-e-reference.png` 作为许可明确的积木比例参考；运行时小泉奈使用项目生成的原创透明立绘。
+
+--- Kenney Tiny Farm ---
+Tiny Farm (1.0)
+
+	Created/distributed by Kenney (www.kenney.nl)
+	Creation date: 01-07-2026
+
+			------------------------------
+
+	License: (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	This content is free to use in personal, educational and commercial projects.
+	Support us by crediting Kenney or www.kenney.nl (this is not mandatory)
+
+			------------------------------
+
+	Donate:   http://support.kenney.nl
+	Patreon:  http://patreon.com/kenney/
+
+	Follow on Twitter for updates:
+	http://twitter.com/KenneyNL
+
+--- Snoblin Prototype Character ---
+------------------------------------
+LICENSE - Pixel RPG Prototype Character
+------------------------------------
+
+CC0 1.0 Universal
+
+------------------------------------
+MADE BY SNOBLIN
+------------------------------------
+Have fun with this free asset! If you like my work and want to support it, please rate this asset. I am always interested in hearing your feedback, wishes for updates or new releases and to see what projects you are working on.
+
+If you have any questions, feel free to reach out anytime.
+
+Thanks for your support!
+- Snoblin
+
+------------------------------------
+FOLLOW ME
+------------------------------------
+Twitter: https://x.com/Snoblinart
+
+--- Kenney Factory Kit ---
+Factory Kit (3.0)
+
+	Created/distributed by Kenney (www.kenney.nl)
+	Creation date: 01-05-2026 14:45
+	
+			------------------------------
+
+	License: (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	You can use this content for personal, educational, and commercial purposes.
+
+	Support by crediting 'Kenney' or 'www.kenney.nl' (this is not a requirement)
+
+			------------------------------
+
+	• Website : www.kenney.nl
+	• Donate  : www.kenney.nl/donate
+
+	• Patreon : patreon.com/kenney
+	
+	Follow on social media for updates:
+
+	• Twitter:	 twitter.com/KenneyNL
+	• BlueSky:	 kenney.bsky.social
+	• Instagram: instagram.com/kenney_nl
