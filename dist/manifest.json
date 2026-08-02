@@ -2,12 +2,13 @@
   "schemaVersion": 1,
   "protocolVersion": 1,
   "stateVersion": 9,
+  "releaseVersion": "1.0.0",
   "entry": "dist/farm.html",
-  "sourceDigest": "263948b1b855e71b6f69e054723ead27930c9610577015a9cdf42e59f95fa41d",
+  "sourceDigest": "90c81935d9462ebca565f5711dd8f2c550c84920600dc0b4e100e28da3f53a0e",
   "files": {
     "dist/farm.html": {
-      "sha256": "f04bd53ddd5dce81ed81ac5d9bf8c2bfa6c5b9ef5bbe620863fabc2b6689aa45",
-      "bytes": 5059969
+      "sha256": "1a4f7dbb59beaf3a1d2e188905e2c14ade4ee6528868ceedc91b6fa4b8548284",
+      "bytes": 5061663
     }
   }
 }
