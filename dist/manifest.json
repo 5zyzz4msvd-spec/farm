@@ -3,11 +3,11 @@
   "protocolVersion": 1,
   "stateVersion": 9,
   "entry": "dist/farm.html",
-  "sourceDigest": "90560c84bb835957458532a204c51545f96fd401d46f4d0c3ede5deec439003f",
+  "sourceDigest": "263948b1b855e71b6f69e054723ead27930c9610577015a9cdf42e59f95fa41d",
   "files": {
     "dist/farm.html": {
-      "sha256": "811e6b180eda622b8dbefb9bfc8e042d337c2abcae8f99addfcc4fd2bcd130e1",
-      "bytes": 5059938
+      "sha256": "f04bd53ddd5dce81ed81ac5d9bf8c2bfa6c5b9ef5bbe620863fabc2b6689aa45",
+      "bytes": 5059969
     }
   }
 }
