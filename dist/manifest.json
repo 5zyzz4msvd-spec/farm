@@ -4,11 +4,11 @@
   "stateVersion": 9,
   "releaseVersion": "1.0.0",
   "entry": "dist/farm.html",
-  "sourceDigest": "f5b00a6f6029eaa8725ec9e422675812770ab2a9500e5298fb3d6e7179f81209",
+  "sourceDigest": "4df5183b3ca498c8f8f2f7f8ff3e8d48795daab20befa3fdd1ee7ff3cf74e070",
   "files": {
     "dist/farm.html": {
-      "sha256": "53a9b5aca0912964f5a7fe8d0a25a4fa6cd93ae55b7f9f7aec739abdd631c28d",
-      "bytes": 5104026
+      "sha256": "879db90b73324579b8580ada23ee96079eb4f34015b0b5130b92d25682b9ba8f",
+      "bytes": 5095000
     }
   }
 }
